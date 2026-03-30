@@ -55,7 +55,7 @@ A digital platform designed to address unemployment in South Africa by connectin
 ##  Mock Interview Video
 
 
-> [Watch My Mock Interview](Khanya_Jakavula_231125461_Mock_Interview_Video 1.mp4)
+> [Watch My Mock Interview](Khanya_Jakavula_231125461_Mock_Interview_Video_1.mp4)
 
 ---
 
