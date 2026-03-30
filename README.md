@@ -60,7 +60,9 @@ A digital platform designed to address unemployment in South Africa by connectin
 
 ##  CV
 
-> [Download My CV] (./CV_Khanya_Jakavula.pdf) 
+> <p align="center">
+  👉 <a href="./CV_Khanya_Jakavula.pdf">Download My CV</a>
+</p>
 
 ---
 
