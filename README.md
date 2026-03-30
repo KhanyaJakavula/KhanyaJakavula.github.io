@@ -55,15 +55,13 @@ A digital platform designed to address unemployment in South Africa by connectin
 ##  Mock Interview Video
 
 
-> <a href="./Khanya_Jakavula_231125461_Mock_Interview_Video_1.mp4">Click here to watch my interview</a>
-
+> [Watch My Mock Interview](Khanya_Jakavula_231125461_Mock_Interview_Video 1.mp4)
 
 ---
 
 ##  CV
 
-> <a href="./CV_Khanya_Jakavula.pdf">Download My CV</a>
-
+> [Download My CV](./CV_Khanya_Jakavula.pdf)
 
 ---
 
