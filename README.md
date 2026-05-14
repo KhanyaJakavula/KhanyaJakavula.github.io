@@ -60,7 +60,7 @@ A responsive authentication system built using HTML, CSS, and JavaScript with fo
 ##  Mock Interview Video
 
 
-> [Watch My Mock Interview](Khanya_Jakavula_231125461_Mock_Interview_Video_1.mp4)
+> [Watch My Mock Interview](Khanya_Jakavula_Mock_Interview_Video_1.mp4)
 
 ---
 
