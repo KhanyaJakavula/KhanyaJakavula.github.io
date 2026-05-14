@@ -110,7 +110,8 @@ I aim to develop solutions that are fair, accessible, and beneficial to all user
 ##  Contact Me
 
  Email: 231125461@mycput.ac.za  
- GitHub: https://github.com/KhanyaJakavula  
+ GitHub: https://github.com/KhanyaJakavula 
+ LinkedIn: Khanya Jakavula
 
 ---
 
