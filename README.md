@@ -77,6 +77,18 @@ This GitHub portfolio represents my learning journey as an ICT student. It showc
 
 Through this portfolio, I demonstrate my readiness to enter the workplace and contribute to the tech industry.
 
+### Situation
+I needed to create a professional CV using Markdown.
+
+### Task
+My task was to learn Markdown syntax and structure my portfolio properly.
+
+### Action
+I researched Markdown formatting and practiced using headings, lists, links, and images.
+
+### Result
+I successfully created a clean and professional CV that improved my understanding of web documentation.
+
 ---
 
 ##  Graduate Attributes
