@@ -36,22 +36,28 @@ Cape Peninsula University of Technology (CPUT)
 
 ---
 
-##  Projects
+##  Featured Projects
 
-###  WorkNest – AI Job Matching Platform
-A digital platform designed to address unemployment in South Africa by connecting job seekers with opportunities using smart technology.
+###  WorkNet – Employment & Skills Platform
+A UX/UI concept platform designed to address unemployment in South Africa using digital job matching and skills development.
 
-**Features:**
-- User registration & login system  
-- Job matching functionality  
-- Clean and user-friendly interface  
-- Focus on accessibility and remote work  
-
-**Technologies Used:**
-- HTML, CSS, JavaScript  
+👉 Focus: UI/UX Design, System Thinking, Wireframes
 
 ---
 
+###  Shopping Cart Web Application
+A JavaScript-based e-commerce cart system that allows users to add, remove, and update products dynamically.
+
+👉 Focus: JavaScript Logic, DOM Manipulation, Interactive UI
+
+---
+
+###  Login & Registration System
+A responsive authentication system built using HTML, CSS, and JavaScript with form validation and user input handling.
+
+👉 Focus: Web Fundamentals, Form Handling, Validation
+
+---
 ##  Mock Interview Video
 
 
