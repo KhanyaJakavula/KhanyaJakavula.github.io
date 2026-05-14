@@ -70,6 +70,59 @@ A responsive authentication system built using HTML, CSS, and JavaScript with fo
 
 ---
 
+
+# Reflection on Coding in Markdown (STAR Method)
+
+## Situation
+I needed to create a professional digital portfolio using GitHub and Markdown for my work readiness assessment.
+
+## Task
+My task was to learn how Markdown works and use it to structure my CV, projects, and portfolio content clearly and professionally.
+
+## Action
+I researched Markdown syntax and practiced using headings, lists, links, images, and formatting tools to organize my portfolio. I also improved the layout to make the information easier to read.
+
+## Result
+I successfully created a clean and organized portfolio using Markdown. This experience improved my technical documentation skills and helped me understand how developers present projects professionally online.
+
+---
+
+
+# Reflection on Mock Interview Video Experience (STAR Method)
+
+## Situation
+As part of the work readiness training, I participated in a mock interview to practice professional communication and interview skills.
+
+## Task
+My task was to answer interview questions confidently, communicate clearly, and present myself professionally during the interview.
+
+## Action
+I prepared by reviewing common interview questions, practicing my responses, and improving my confidence before recording the video. During the interview, I focused on speaking clearly and maintaining professionalism.
+
+## Result
+The mock interview helped me improve my communication skills and confidence. I learned how to present myself better in professional situations and gained a better understanding of interview expectations in the workplace.
+
+---
+
+
+# Reflection on Using GitHub Pages (STAR Method)
+
+## Situation
+I needed to publish my portfolio online using GitHub Pages so that it could be accessed through a live website link.
+
+## Task
+My task was to learn how GitHub Pages works and successfully deploy my portfolio repository as a website.
+
+## Action
+I configured the repository settings, enabled GitHub Pages, and tested the website to ensure all links and files worked correctly. I also updated the portfolio layout to improve presentation and accessibility.
+
+## Result
+I successfully published my portfolio online using GitHub Pages. This experience improved my understanding of website deployment and version control using GitHub.
+
+---
+
+
+
 ##  Contact Me
 
  Email: 231125461@mycput.ac.za / khaniajakavula@gmail.com 
