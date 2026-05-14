@@ -1,7 +1,7 @@
 #  Hi, I'm Khanya Jakavula
 
 ICT Student | Web Developer | South Africa  
- Based in Cape Town, Western Cape  
+Based in Cape Town, Western Cape  
 
 ---
 
@@ -12,8 +12,7 @@ I am a passionate and motivated ICT student with a strong interest in web develo
 ---
 
 ##  Career Objective
-
-To secure a position in the tech industry where I can apply my web development skills, grow professionally, and contribute to meaningful digital solutions.
+To begin my career in the technology industry where I can apply my web development and UI/UX skills, gain practical experience, and contribute to innovative digital solutions.
 
 ---
 
@@ -32,7 +31,7 @@ Cape Peninsula University of Technology (CPUT)
 -  Basic React Development  
 -  UI/UX Design Principles  
 -  Git & GitHub  
--  Basic Database Knowledge  
+-  SQL & Database Fundamentals  
 
 ---
 
@@ -71,46 +70,10 @@ A responsive authentication system built using HTML, CSS, and JavaScript with fo
 
 ---
 
-##  Reflection
-
-This GitHub portfolio represents my learning journey as an ICT student. It showcases my technical skills, creativity, and ability to solve real-world problems using technology.
-
-Through this portfolio, I demonstrate my readiness to enter the workplace and contribute to the tech industry.
-
-### Situation
-I needed to create a professional CV using Markdown.
-
-### Task
-My task was to learn Markdown syntax and structure my portfolio properly.
-
-### Action
-I researched Markdown formatting and practiced using headings, lists, links, and images.
-
-### Result
-I successfully created a clean and professional CV that improved my understanding of web documentation.
-
----
-
-##  Graduate Attributes
-
-###  Ubuntu
-I believe in collaboration and building solutions that positively impact communities, especially in addressing unemployment in South Africa.
-
-###  Technological Capability
-I use modern web technologies to create digital solutions that are practical, user-friendly, and scalable.
-
-###  Problem-Solving & Resilience
-I continuously improve my skills by working on projects like WorkNest and overcoming technical challenges.
-
-###  Ethical Awareness
-I aim to develop solutions that are fair, accessible, and beneficial to all users.
-
----
-
 ##  Contact Me
 
- Email: 231125461@mycput.ac.za  
- GitHub: https://github.com/KhanyaJakavula 
+ Email: 231125461@mycput.ac.za / khaniajakavula@gmail.com 
+ GitHub: [KhanyaJakavula](https://github.com/KhanyaJakavula)
  LinkedIn: Khanya Jakavula
 
 ---
